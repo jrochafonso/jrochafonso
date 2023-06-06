@@ -1,6 +1,4 @@
-### hello 👽
-welcome to my GitHub!
-
+### hello 👽 welcome to my GitHub!
 i'm a jazz musician with a passion for technology, coding and web development</p>
 since i've decided to expand my horizons and venture into the world of programming, i've learned:</p>
 c, javascript, typescript, react.js, next.js, redux, node.js, css, html and sql 👾</p>
