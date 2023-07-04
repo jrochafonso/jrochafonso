@@ -1,5 +1,5 @@
 #### hello! 👽 welcome to my GitHub!
-i'm a singer-songwriter musician with a passion for technology, coding and web development 🤖</p>
+i'm a singer-songwriter musician with a passion for technology, coding and web development 🤖<br>
 since i've decided to expand my horizons and venture into the world of programming, i've learned and experimented with:</p>
 <p>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script" />
