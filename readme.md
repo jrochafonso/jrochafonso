@@ -49,7 +49,11 @@ since i've decided to expand my horizons and venture into the world of programmi
   <img src="https://aleen42.github.io/badges/src/dreamweaver.svg" />
 </p>
 
-also, feel free to listen to my music https://linktr.ee/musicadojoao
+<p>also, feel free to listen to my music here:</p>
+
+[![DEUSA](https://img.shields.io/badge/DEUSA-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/DEUSA)
+<br>
+and https://linktr.ee/musicadojoao
 
 <!---
 jrochafonso/jrochafonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
